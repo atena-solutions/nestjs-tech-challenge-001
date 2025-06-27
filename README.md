@@ -1,4 +1,4 @@
-# 🧪 NestJS Technical Challenge: Personal Finance Tracker API
+#  NestJS Technical Challenge: Personal Finance Tracker API
 
 ## 🎯 Objective
 
