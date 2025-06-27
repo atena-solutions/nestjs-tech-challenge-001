@@ -4,8 +4,8 @@
 
 Build a RESTful API using **NestJS** that allows users to track their personal finances. The system should allow users to manage **income**, **expenses**, and **monthly budgets**, and give a simple overview of their financial balance.
 
-> **Important:** The application **must follow Domain-Driven Design (DDD)** principles.
-
+> **Important:** The application **must follow Domain-Driven Design (DDD)** principles.<br/>
+> **Tech Requirement:** You must use **TypeORM** and **PostgreSQL** for data persistence.
 ---
 
 ## 📚 User Stories
